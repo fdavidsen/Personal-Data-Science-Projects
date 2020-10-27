@@ -1,5 +1,5 @@
 # Personal Data Science Projects
-A collection of my simple personal projects that I made from tutorials and some for fun.
+This is a collection of my simple personal projects. I made them for fun and learning purposes.
 
 ## Table of Contents
 Project Name | Description |
