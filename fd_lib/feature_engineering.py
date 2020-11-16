@@ -72,7 +72,7 @@ class CustomFeature(BaseEstimator, TransformerMixin):
                 result = X[row] * X[col]
                 
             elif how == 'distance':
-                result = (self.X[row]**2 + self.X[col]**2)**0.5
+                result = (X[row]**2 + X[col]**2)**0.5
             
             X['{}_{}'.format(row, col)] = result
             
